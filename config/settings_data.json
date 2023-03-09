@@ -1,22 +1,23 @@
 {
   "current": {
     "social_twitter_link": "",
-    "favicon": "shopify:\/\/shop_images\/logo_transparent.png",
-    "checkout_header_image": "shopify:\/\/shop_images\/banner.jpg",
-    "checkout_logo_image": "shopify:\/\/shop_images\/logo_transparent.png",
+    "favicon": "shopify:\/\/shop_images\/ae9947ce3fa1495c9bb7c7a9ab208ece.png",
+    "checkout_header_image": "shopify:\/\/shop_images\/making-homemade-soup.jpg",
+    "checkout_logo_image": "shopify:\/\/shop_images\/ae9947ce3fa1495c9bb7c7a9ab208ece.png",
     "sections": {
       "header": {
         "type": "header",
         "settings": {
           "align_logo": "left",
-          "logo_max_width": 100,
+          "logo": "shopify:\/\/shop_images\/ae9947ce3fa1495c9bb7c7a9ab208ece.png",
+          "logo_max_width": 80,
           "main_linklist": "main-menu",
           "message": true,
           "home_page_only": true,
-          "message_text": "Announce something here",
+          "message_text": "Welkom bij CookNation",
           "message_link": "",
-          "color_bg": "#929292",
-          "color_text": "#fff"
+          "color_bg": "#000000",
+          "color_text": "#ffffff"
         }
       },
       "feature-row": {
@@ -145,7 +146,15 @@
     },
     "content_for_index": [
 
-    ]
+    ],
+    "blocks": {
+      "6588702529468458379": {
+        "type": "shopify:\/\/apps\/ecomposer-landing-page-builder\/blocks\/app-embed\/a0fc26e1-7741-4773-8b27-39389b4fb4a0",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
   },
   "presets": {
     "Default": {

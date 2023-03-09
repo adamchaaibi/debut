@@ -1,15 +1,15 @@
 {
   "sections": {
-    "hero-1": {
+    "079a1b32-45e7-441d-bcfa-82ea366de40a": {
       "type": "hero",
       "settings": {
-        "image": "shopify:\/\/shop_images\/banner.jpg",
+        "image": "shopify:\/\/shop_images\/making-homemade-soup.jpg",
         "alignment": "center",
         "hero_layout": "full_width",
-        "hero_size": "large",
-        "text_size": "large",
-        "title": "Welkom bij luxurygoods",
-        "text": "<p>Use overlay text to give your customers insight into your brand. Select imagery and text that relates to your style and story.<\/p>",
+        "hero_size": "small",
+        "text_size": "medium",
+        "title": "CookNation voor al je keuken snufjes",
+        "text": "",
         "button_label": "",
         "button_link": ""
       }
@@ -162,15 +162,30 @@
       "settings": {
         "section_height": "medium"
       }
+    },
+    "hero-1": {
+      "type": "hero",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/making-homemade-soup.jpg",
+        "alignment": "center",
+        "hero_layout": "full_width",
+        "hero_size": "medium",
+        "text_size": "large",
+        "title": "CookNation voor je keukenapparatuur",
+        "text": "<p>Use overlay text to give your customers insight into your brand. Select imagery and text that relates to your style and story.<\/p>",
+        "button_label": "",
+        "button_link": ""
+      }
     }
   },
   "order": [
-    "hero-1",
+    "079a1b32-45e7-441d-bcfa-82ea366de40a",
     "feature-row",
     "feature-columns",
     "collection",
     "hero-2",
     "quotes",
-    "image-bar"
+    "image-bar",
+    "hero-1"
   ]
 }
