@@ -6,66 +6,12 @@
         "image": "shopify:\/\/shop_images\/making-homemade-soup.jpg",
         "alignment": "center",
         "hero_layout": "full_width",
-        "hero_size": "small",
+        "hero_size": "medium",
         "text_size": "medium",
-        "title": "CookNation voor al je keuken snufjes",
+        "title": "",
         "text": "",
         "button_label": "",
         "button_link": ""
-      }
-    },
-    "feature-row": {
-      "type": "feature-row",
-      "settings": {
-        "layout": "left",
-        "title": "Image with text",
-        "text": "<p>Pair large text with an image to give focus to your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-        "button_label": "",
-        "button_link": ""
-      }
-    },
-    "feature-columns": {
-      "type": "feature-columns",
-      "blocks": {
-        "feature-columns-0": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "feature-columns-1": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        },
-        "feature-columns-2": {
-          "type": "text_block",
-          "settings": {
-            "enable_image": true,
-            "title": "Add a title or tagline",
-            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.<\/p>",
-            "button_label": "",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "feature-columns-0",
-        "feature-columns-1",
-        "feature-columns-2"
-      ],
-      "settings": {
-        "title": "",
-        "align_text": "left"
       }
     },
     "collection": {
@@ -78,114 +24,10 @@
         "show_vendor": false,
         "show_view_all": false
       }
-    },
-    "hero-2": {
-      "type": "hero",
-      "settings": {
-        "alignment": "center",
-        "hero_layout": "full_width",
-        "hero_size": "medium",
-        "text_size": "large",
-        "title": "Image with text overlay",
-        "text": "<p>Use overlay text to give your customers insight into your brand. Select imagery and text that relates to your style and story.<\/p>",
-        "button_label": "",
-        "button_link": ""
-      }
-    },
-    "quotes": {
-      "type": "quotes",
-      "blocks": {
-        "quotes-0": {
-          "type": "quote",
-          "settings": {
-            "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
-            "author": "Author's name"
-          }
-        },
-        "quotes-1": {
-          "type": "quote",
-          "settings": {
-            "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
-            "author": "Author's name"
-          }
-        },
-        "quotes-2": {
-          "type": "quote",
-          "settings": {
-            "quote": "<p>Add customer reviews and testimonials to showcase your store’s happy customers.<\/p>",
-            "author": "Author's name"
-          }
-        }
-      },
-      "block_order": [
-        "quotes-0",
-        "quotes-1",
-        "quotes-2"
-      ],
-      "settings": {
-        "title": ""
-      }
-    },
-    "image-bar": {
-      "type": "image-bar",
-      "blocks": {
-        "image-bar-0": {
-          "type": "image",
-          "settings": {
-            "alignment": "center",
-            "link": "",
-            "cta_label": ""
-          }
-        },
-        "image-bar-1": {
-          "type": "image",
-          "settings": {
-            "alignment": "center",
-            "link": "",
-            "cta_label": ""
-          }
-        },
-        "image-bar-2": {
-          "type": "image",
-          "settings": {
-            "alignment": "center",
-            "link": "",
-            "cta_label": ""
-          }
-        }
-      },
-      "block_order": [
-        "image-bar-0",
-        "image-bar-1",
-        "image-bar-2"
-      ],
-      "settings": {
-        "section_height": "medium"
-      }
-    },
-    "hero-1": {
-      "type": "hero",
-      "settings": {
-        "image": "shopify:\/\/shop_images\/making-homemade-soup.jpg",
-        "alignment": "center",
-        "hero_layout": "full_width",
-        "hero_size": "medium",
-        "text_size": "large",
-        "title": "CookNation voor je keukenapparatuur",
-        "text": "<p>Use overlay text to give your customers insight into your brand. Select imagery and text that relates to your style and story.<\/p>",
-        "button_label": "",
-        "button_link": ""
-      }
     }
   },
   "order": [
     "079a1b32-45e7-441d-bcfa-82ea366de40a",
-    "feature-row",
-    "feature-columns",
-    "collection",
-    "hero-2",
-    "quotes",
-    "image-bar",
-    "hero-1"
+    "collection"
   ]
 }
