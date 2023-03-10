@@ -1,0 +1,49 @@
+{
+  "sections": {
+    "2ca62124-c1b3-4965-b842-6099fd4a4354": {
+      "type": "custom-content",
+      "blocks": {
+        "template--17843500155145__2ca62124-c1b3-4965-b842-6099fd4a4354-1678455371fe83c56e-0": {
+          "type": "text",
+          "settings": {
+            "title": "Shop bij CookNation",
+            "text": "<p>Het bedrijf heeft inmiddels een aantal succesvolle productlanceringen achter de rug en heeft zich weten te ontwikkelen tot een toonaangevende speler in de markt. CookNation is er trots op dat ze klanten blijven verrassen met nieuwe en innovatieve producten. Het team staat dan ook klaar om de uitdaging aan te gaan om weer iets nieuws te bedenken en te creëren. <\/p>",
+            "width": "50%",
+            "alignment": "center",
+            "align_text": "left"
+          }
+        },
+        "template--17843500155145__2ca62124-c1b3-4965-b842-6099fd4a4354-1678455371fe83c56e-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/making-homemade-soup.jpg",
+            "width": "50%",
+            "alignment": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--17843500155145__2ca62124-c1b3-4965-b842-6099fd4a4354-1678455371fe83c56e-0",
+        "template--17843500155145__2ca62124-c1b3-4965-b842-6099fd4a4354-1678455371fe83c56e-1"
+      ],
+      "settings": {
+        "title": "Custom content"
+      }
+    },
+    "collection": {
+      "type": "collection",
+      "settings": {
+        "title": "Featured collection",
+        "collection": "",
+        "grid": 4,
+        "rows": 1,
+        "show_vendor": false,
+        "show_view_all": false
+      }
+    }
+  },
+  "order": [
+    "2ca62124-c1b3-4965-b842-6099fd4a4354",
+    "collection"
+  ]
+}
